@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devfala.ibprof.com.br/sitemap.xml
